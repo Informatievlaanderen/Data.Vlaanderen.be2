@@ -200,7 +200,7 @@
     "navigation": {
       "prev": "/doc/vocabularium/besluitvorming/kandidaatstandaard/2020-10-01"
     },
-    "dummy": "trigger",
+    "dummy": "001",
     "type": "raw",
     "directory": "/doc/vocabularium/besluitvorming/erkendestandaard/2021-02-04",
     "original": {
@@ -332,11 +332,11 @@
     "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
     "branchtag": "production",
     "name": "besluit",
+    "dummy": "001",
     "filename": "config/besluit.json",
     "navigation": {
       "next": "/doc/vocabularium/besluit/ontwerpdocument/2020-01-06"
     },
-    "dummy": "trigger",
     "type": "raw",
     "directory": "/doc/vocabularium/besluit/ontwerpdocument/2020-01-06",
     "original": {
@@ -381,20 +381,8 @@
   {
     "urlref": "/ns/besluitvorming",
     "seealso": "/doc/vocabularium/besluitvorming/erkendestandaard/2021-02-04",
-    "type": "raw",
-    "dummy": "trigger",
-    "directory": "/ns/besluitvorming",
-    "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
-    "branchtag": "production",
-    "original": {
-      "urlref": "/ns/besluitvorming",
-      "seealso": "/doc/vocabularium/besluitvorming/erkendestandaard/2021-02-04",
-      "type": "raw",
-      "dummy": "trigger",
-      "directory": "/ns/besluitvorming",
-      "repository": "https://github.com/Informatievlaanderen/OSLO-Generated",
-      "branchtag": "production"
-    }
+    "type": "voc",
+    "dummy": "002"
   },
   {
     "urlref": "/doc/vocabularium/besluit",
@@ -417,20 +405,8 @@
   {
     "urlref": "/ns/besluit",
     "seealso": "/doc/vocabularium/besluit/standaard/2018-07-20",
-    "type": "raw",
-    "dummy": "trigger",
-    "directory": "/ns/besluit",
-    "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
-    "branchtag": "production",
-    "original": {
-      "urlref": "/doc/vocabularium/besluit",
-      "seealso": "/doc/vocabularium/besluit/standaard/2018-07-20",
-      "type": "raw",
-      "dummy": "trigger",
-      "directory": "/ns/besluitvorming",
-      "repository": "https://github.com/Informatievlaanderen/OSLO-Generated",
-      "branchtag": "production"
-    }
+    "type": "voc",
+    "dummy": "001"
   },
   {
     "urlref": "/doc/applicatieprofiel/besluitvorming/ontwerpstandaard/toolchain4",
@@ -442,7 +418,7 @@
     "navigation": {
       "prev": "/doc/applicatieprofiel/besluitvorming/erkendestandaard/2021-02-04"
     },
-    "dummy": "001"
+    "dummy": "002"
   },
   {
     "urlref": "/doc/vocabularium/besluitvorming/ontwerpstandaard/toolchain4",

@@ -179,7 +179,7 @@
     "navigation": {},
     "type": "raw",
     "directory": "/doc/vocabularium/openbaardomein/begraafplaats/erkendestandaard/2021-09-30",
-    "dummy": "trigger",
+    "dummy": "001",
     "original": {
       "urlref": "/doc/vocabularium/openbaardomein/begraafplaats/erkendestandaard/2021-09-30",
       "repository": "https://github.com/Informatievlaanderen/OSLO-Generated",
@@ -250,22 +250,9 @@
   {
     "urlref": "/ns/openbaardomein/begraafplaats",
     "seealso": "/doc/vocabularium/openbaardomein/begraafplaats/erkendestandaard/2021-09-30",
-    "type": "raw",
+    "type": "voc",
     "prefix": "openbaardomein",
-    "directory": "/ns/openbaardomein/begraafplaats",
-    "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
-    "branchtag": "production",
-    "dummy": "001",
-    "original": {
-      "urlref": "/ns/openbaardomein/begraafplaats",
-      "seealso": "/doc/vocabularium/openbaardomein/begraafplaats/erkendestandaard/2021-09-30",
-      "type": "raw",
-      "prefix": "openbaardomein",
-      "directory": "/ns/openbaardomein/begraafplaats",
-      "repository": "https://github.com/Informatievlaanderen/OSLO-Generated",
-      "branchtag": "production",
-      "dummy": "001"
-    }
+    "dummy": "001"
   },
   {
     "urlref": "/doc/applicatieprofiel/begraafplaats/ontwerpstandaard/toolchain4",
