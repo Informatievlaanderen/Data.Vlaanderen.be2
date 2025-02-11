@@ -307,13 +307,13 @@
   },
   {
     "urlref": "/doc/vocabularium/cultuurparticipatie/ontwerpstandaard/2021-10-01",
-    "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be2-generated",
+    "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
     "branchtag": "production",
     "name": "DoelgerichtDigitaalTransformeren-voc",
     "filename": "config/DoelgerichtDigitaalTransformeren-voc.json",
     "navigation": {},
     "disabled": false,
-    "dummy": "trigger",
+    "dummy": "001",
     "type": "raw",
     "directory": "/doc/vocabularium/cultuurparticipatie/ontwerpstandaard/2021-10-01",
     "original": {

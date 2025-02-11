@@ -136,21 +136,8 @@
   {
     "urlref": "/ns/adres",
     "seealso": "/doc/vocabularium/adres/standaard/2018-07-03",
-    "disabled": false,
-    "type": "raw",
-    "dummy": "012",
-    "directory": "/ns/adres",
-    "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
-    "branchtag": "production",
-    "original": {
-      "urlref": "/ns/adres",
-      "seealso": "/doc/vocabularium/adres/standaard/2018-07-03",
-      "type": "raw",
-      "directory": "/ns/adres",
-      "dummy": "trigger",
-      "repository": "https://github.com/Informatievlaanderen/OSLO-Generated",
-      "branchtag": "production"
-    }
+    "dummy": "001",
+    "type": "voc"
   },
   {
     "urlref": "/doc/vocabularium/adres/ontwerpstandaard/toolchain4",

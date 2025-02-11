@@ -161,6 +161,7 @@
     "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
     "branchtag": "production",
     "name": "bedrijventerrein",
+    "dummy": "001",
     "filename": "config/bedrijventerrein-voc.json",
     "navigation": {
       "prev": "/doc/vocabularium/bedrijventerrein/kandidaatstandaard/2020-04-23",
@@ -193,6 +194,7 @@
   {
     "urlref": "/ns/bedrijventerrein",
     "seealso": "/doc/vocabularium/bedrijventerrein/erkendestandaard/2020-06-18",
+    "dummy": "001",
     "type": "voc"
   },
   {
@@ -200,6 +202,7 @@
     "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
     "branchtag": "production",
     "name": "bedrijventerrein",
+    "dummy": "001",
     "filename": "config/bedrijventerrein.json",
     "navigation": {
       "prev": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2020-03-17"
@@ -220,6 +223,7 @@
   {
     "urlref": "/doc/implementatiemodel/bedrijventerrein",
     "seealso": "/doc/implementatiemodel/bedrijventerrein/kandidaatstandaard/2020-05-04",
-    "type": "ap"
+    "type": "ap",
+    "dummy": "001"
   }
 ]
