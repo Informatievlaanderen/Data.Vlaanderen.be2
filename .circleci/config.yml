@@ -626,6 +626,6 @@ workflows:
             # - render-example-templates
             - copy-raw
       - create-artifact:
-          generatedRepoFingerprint: "$$SSHKEYFINGERPRINT"
+          generatedRepoFingerprint: "SHA256:Sed50e4hsYwBwrvfMKXOJqXi/APsOoci2fOf3S8LTNI"
           requires:
             - expand-links
