@@ -66,20 +66,8 @@
   {
     "urlref": "/ns/bestuur",
     "seealso": "/doc/vocabularium/bestuur/ontwerpdocument/niet-bepaald",
-    "type": "raw",
-    "directory": "/ns/bestuur",
-    "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
-    "branchtag": "production",
-    "dummy": "trigger",
-    "original": {
-      "urlref": "/ns/bestuur",
-      "seealso": "/doc/vocabularium/bestuur/ontwerpdocument/niet-bepaald",
-      "type": "raw",
-      "directory": "/ns/bestuur",
-      "repository": "https://github.com/Informatievlaanderen/OSLO-Generated",
-      "branchtag": "production",
-      "dummy": "trigger"
-    }
+    "type": "voc",
+    "dummy": "001"
   },
   {
     "urlref": "/ns/bestuur",
@@ -99,7 +87,7 @@
     "repository": "https://github.com/informatievlaanderen/data.vlaanderen.be-generated",
     "branchtag": "production",
     "name": "bestuur",
-    "dummy": 1,
+    "dummy": "002",
     "navigation": {},
     "type": "raw",
     "directory": "/doc/vocabularium/bestuur/ontwerpdocument/niet-bepaald",

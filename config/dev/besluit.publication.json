@@ -200,7 +200,7 @@
     "navigation": {
       "prev": "/doc/vocabularium/besluitvorming/kandidaatstandaard/2020-10-01"
     },
-    "dummy": "trigger",
+    "dummy": "001",
     "type": "raw",
     "directory": "/doc/vocabularium/besluitvorming/erkendestandaard/2021-02-04",
     "original": {
@@ -382,7 +382,7 @@
     "urlref": "/ns/besluitvorming",
     "seealso": "/doc/vocabularium/besluitvorming/erkendestandaard/2021-02-04",
     "type": "voc",
-    "dummy": "001"
+    "dummy": "002"
   },
   {
     "urlref": "/doc/vocabularium/besluit",
