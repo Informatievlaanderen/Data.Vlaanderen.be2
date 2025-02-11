@@ -1,27 +1,21 @@
 {
   "primeLanguage": "nl",
-  "otherLanguages": [
-    "en",
-    "fr",
-    "de"
-  ],
-  "hostname": "https://dev.specs.org/",
-  "domain": "data.spec.org",
-  "publicationpoints": [
-    "dev"
-  ],
+  "otherLanguages": [],
+  "hostname": "https://data.dev-vlaanderen.be",
+  "domain": "data.vlaanderen.be",
+  "publicationpoints": ["dev"],
   "generatedrepository": {
-    "organisation": "GitHubOrganisation",
-    "repository": "GeneratedRepository",
+    "organisation": "informatievlaanderen",
+    "repository": "data.vlaanderen.be2-generated",
     "private": false,
-    "gitEmail": "toolchain@dev.specs.org",
+    "gitEmail": "toolchain@data.vlaanderen.be",
     "gitUser": "toolchain"
   },
   "toolchainversion": "4.0.1",
   "toolchain": {
     "strickness": "lazy",
     "version": 4,
-    "triggerall": true,
+    "triggerall": false,
     "autotranslate": false
   },
   "shaclgenerator": {
