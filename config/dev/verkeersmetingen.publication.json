@@ -68,7 +68,6 @@
     "type": "ap",
     "dummy": "008"
   },
-
   {
     "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-03-14",
     "type": "raw",
@@ -76,6 +75,7 @@
     "branchtag": "production",
     "name": "Verkeersmetingen-voc",
     "filename": "config/verkeersmetingen-voc.json",
+    "directory": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-03-14",
     "navigation": {
       "next": "/doc/vocabularium/verkeersmetingen/kandidaatstandaard/2023-12-01"
     },
@@ -99,6 +99,7 @@
     "branchtag": "production",
     "name": "Verkeersmetingen-voc",
     "filename": "config/verkeersmetingen-voc.json",
+    "directory": "/doc/vocabularium/verkeersmetingen/kandidaatstandaard/2023-12-01",
     "navigation": {
       "next": "/doc/vocabularium/verkeersmetingen/erkendestandaard/2024-04-17",
       "prev": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-03-14"
